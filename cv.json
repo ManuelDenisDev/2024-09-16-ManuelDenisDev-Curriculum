@@ -1,0 +1,297 @@
+{
+    "basica": {
+        "nombre": "Manuel Denis Rodriguez",
+        "descripcion": "Desarrollador Web Fullstack especializado en el Front-End.",
+        "imagen": "/mandendev-foto-perfil.png",
+        "email": "manueldenis.developer@gmail.com",
+        "telefono": "+34 605322355",
+        "url": "https://manueldenis.netlify.app/",
+        "resumen": "Desarrollador Web Fullstack especializado en el Front-End. Me apasiona construir sitios y aplicaciones web de alto calidad. Mi espacialidad son tecnologias modernas como Astro, React, Next.js, TailwindCSS, TypeScript, Node.js, MySQL, Git y GitHub.",
+        "localizacion": {
+            "direccion": "",
+            "codigoPostal": "11201",
+            "ciudad": "Algeciras (Cádiz)",
+            "codigoPais": "ES",
+            "pais": "España"
+        },
+        "redesSociales": [
+            {
+                "nombre": "LinkedIn",
+                "username": "manueldenisdev",
+                "url": "https://www.linkedin.com/in/manueldenisdev/"
+            },
+            {
+                "nombre": "X",
+                "username": "manueldenisdev",
+                "url": "https://x.com/manueldenisdev"
+            },
+            {
+                "nombre": "GitHub",
+                "username": "manueldenisdev",
+                "url": "https://github.com/ManuelDenisDev"
+            }
+        ]
+    },
+    "trabajos": [
+        {
+            "nombre": "Desarrollador Frontend con Next.js",
+            "empresa": "Freelance",
+            "url": "https://nextjs.org/",
+            "inicioTrabajo": "2023-11-01",
+            "finalTrabajo": null,
+            "descripcion": "Desarrollo de sitios web con Next. Next.js es un framework de desarrollo web que permite crear sitios web estáticos y dinámicos con tecnologías modernas como React, TypeScript, Tailwind CSS, etc. Se trata de un framework muy rápido y eficiente que permite crear sitios web muy rápidos y ligeros.",
+            "highlights": ["Started the company"]
+        },
+        {
+            "nombre": "Desarrollador Frontend con Astro.builds",
+            "empresa": "Freelance",
+            "url": "https://astro.build/",
+            "inicioTrabajo": "2023-11-01",
+            "finalTrabajo": null,
+            "descripcion": "Desarrollo de sitios web con Astro. Astro.builds es un framework de desarrollo web que permite crear sitios web estáticos y dinámicos con tecnologías modernas como React, TypeScript, Tailwind CSS, etc. Se trata de un framework muy rápido y eficiente que permite crear sitios web muy rápidos y ligeros.",
+            "highlights": ["Started the company"]
+        },
+        {
+            "nombre": "Diseñador Web y CMS",
+            "empresa": "Freelance",
+            "inicioTrabajo": "2010-03-01",
+            "finalTrabajo": null,
+            "descripcion": "Desde 2010 he trabajado como diseñador web freelance, realizando trabajos de diseño y desarrollo web, manejo de CMS como WordPress, Joomla, PrestaShop, etc.",
+            "highlights": ["Started the company"]
+        }
+    ],
+    "volunteer": [
+        {
+            "organization": "Organization",
+            "position": "Volunteer",
+            "url": "https://organization.com/",
+            "startDate": "2012-01-01",
+            "endDate": "2013-01-01",
+            "summary": "Description…",
+            "highlights": ["Awarded 'Volunteer of the Month'"]
+        }
+    ],
+    "education": [
+        {
+            "institution": "Universitat Oberta de Catalunya",
+            "url": "https://www.uoc.edu/portal/es/index.html",
+            "area": "Ingeniero de Software",
+            "studyType": "Bachelor",
+            "startDate": "2003-01-01",
+            "endDate": "2009-01-01",
+            "score": "4.0",
+            "courses": ["DB1101 - Basic SQL"]
+        }
+    ],
+    "awards": [
+        {
+            "title": "Award",
+            "date": "2014-11-01",
+            "awarder": "Company",
+            "summary": "There is no spoon."
+        }
+    ],
+    "certificates": [
+        {
+            "name": "Certificate",
+            "date": "2021-11-07",
+            "issuer": "Company",
+            "url": "https://certificate.com"
+        }
+    ],
+    "publications": [
+        {
+            "name": "Publication",
+            "publisher": "Company",
+            "releaseDate": "2014-10-01",
+            "url": "https://publication.com",
+            "summary": "Description…"
+        }
+    ],
+    "habilidades": [
+        {
+            "nombre": "Html",
+            "nivel": "Master",
+            "keywords": ["Desarrollo Web", "Frontend"]
+        },
+        {
+            "nombre": "Css",
+            "nivel": "Master",
+            "keywords": ["Desarrollo Web", "Frontend", "Diseño Responsive"]
+        },
+        {
+            "nombre": "JavaScript",
+            "nivel": "Master",
+            "keywords": ["Desarrollo Web", "Frontend", "Backend", "Fullstack"]
+        },
+        {
+            "nombre": "Tailwind",
+            "nivel": "Avanzado",
+            "keywords": [
+                "Desarrollo Web",
+                "Frontend",
+                "CSS Framework",
+                "Diseño Responsive"
+            ]
+        },
+        {
+            "nombre": "TypeScript",
+            "nivel": "Avanzado",
+            "keywords": [
+                "Desarrollo Web",
+                "Frontend",
+                "Backend",
+                "JavaScript Superset"
+            ]
+        },
+        {
+            "nombre": "Node",
+            "nivel": "Avanzado",
+            "keywords": ["Desarrollo Web", "Backend", "JavaScript", "Servidor"]
+        },
+        {
+            "nombre": "MySQL",
+            "nivel": "Avanzado",
+            "keywords": [
+                "Bases de Datos",
+                "SQL",
+                "Almacenamiento de Datos",
+                "Backend"
+            ]
+        },
+        {
+            "nombre": "Git",
+            "nivel": "Avanzado",
+            "keywords": [
+                "Control de Versiones",
+                "Colaboración",
+                "Código Fuente"
+            ]
+        },
+        {
+            "nombre": "GitHub",
+            "nivel": "Avanzado",
+            "keywords": [
+                "Control de Versiones",
+                "Colaboración",
+                "Código Fuente",
+                "Git"
+            ]
+        },
+        {
+            "nombre": "Next.js",
+            "nivel": "Avanzado",
+            "keywords": [
+                "Desarrollo Web",
+                "Frontend",
+                "React Framework",
+                "SSR",
+                "Static Generation"
+            ]
+        },
+        {
+            "nombre": "React",
+            "nivel": "Avanzado",
+            "keywords": [
+                "Desarrollo Web",
+                "Frontend",
+                "JavaScript Library",
+                "UI"
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "Spanish",
+            "fluency": "Native speaker"
+        },
+        {
+            "language": "English",
+            "fluency": "Advanced"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Wildlife",
+            "keywords": ["Ferrets", "Unicorns"]
+        }
+    ],
+    "references": [
+        {
+            "name": "Jane Doe",
+            "reference": "Reference…"
+        }
+    ],
+    "proyectos": [
+        {
+            "nombre": "Elena Cibaja - Interiorismo",
+            "isActive": true,
+            "descripcion": "Desarrollo de sitio web para interiorista. Trabajo realizado con Astro.builds, TypeScript y Tailwind CSS.",
+            "tecnologias": [
+                "HTML5",
+                "Tailwind CSS",
+                "Astro.builds",
+                "TypeScript"
+            ],
+            "github": "#",
+
+            "url": "https://elenacibaja-portafolio.netlify.app/"
+        },
+        {
+            "nombre": "Manuel Denis - Sitio Web",
+            "isActive": true,
+            "descripcion": "Desarrollo de sitio web para músico. Trabajo realizado con Next.js, TypeScript y Tailwind CSS.",
+            "tecnologias": [
+                "HTML5",
+                "Tailwind CSS",
+                "Astro.builds",
+                "TypeScript"
+            ],
+            "github": "#",
+
+            "url": "https://manueldenis.netlify.app/"
+        },
+        {
+            "nombre": "Manuel Denis - Blog",
+            "isActive": true,
+            "descripcion": "Desarrollo de blog personal. Trabajo realizado con Next.js, TypeScript y Tailwind CSS.",
+            "tecnologias": [
+                "HTML5",
+                "Tailwind CSS",
+                "Astro.builds",
+                "TypeScript"
+            ],
+            "github": "#",
+
+            "url": "https://manueldenis.netlify.app/blog"
+        },
+        {
+            "nombre": "Manuel Denis - Portafolio",
+            "isActive": true,
+            "descripcion": "Desarrollo de portafolio personal. Trabajo realizado con Next.js, TypeScript y Tailwind CSS.",
+            "tecnologias": [
+                "HTML5",
+                "Tailwind CSS",
+                "Astro.builds",
+                "TypeScript"
+            ],
+            "github": "#",
+
+            "url": "https://manueldenis.netlify.app/portfolio"
+        },
+        {
+            "nombre": "Manuel Denis - Curriculum Vitae",
+            "isActive": true,
+            "descripcion": "Desarrollo de curriculum vitae personal. Trabajo realizado con Next.js, TypeScript y Tailwind CSS.",
+            "tecnologias": [
+                "HTML5",
+                "Tailwind CSS",
+                "Astro.builds",
+                "TypeScript"
+            ],
+            "github": "#",
+
+            "url": "https://manueldenis.netlify.app/cv"
+        }
+    ]
+}
