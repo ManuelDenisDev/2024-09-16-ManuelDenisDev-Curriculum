@@ -1,0 +1,67 @@
+---
+import Section from '@/components/Section.astro'
+import Css from '@/icons/Css.astro'
+import Git from '@/icons/Git.astro'
+import GitHub from '@/icons/GitHub.astro'
+import Html from '@/icons/Html.astro'
+import JavaScript from '@/icons/JavaScript.astro'
+import MySQL from '@/icons/MySQL.astro'
+import Next from '@/icons/Next.astro'
+import React from '@/icons/React.astro'
+import Tailwind from '@/icons/Tailwind.astro'
+import TypeScript from '@/icons/TypeScript.astro'
+import Node from '@/icons/Node.astro'
+
+import { herramientas } from '@cv'
+
+const SOCIAL_ICONS: Record<string, any> = {
+    Git,
+    GitHub,
+    Html,
+    Css,
+    Node,
+    JavaScript,
+    Tailwind,
+    TypeScript,
+    React,
+    Next,
+    MySQL,
+}
+---
+
+<Section titulo='Herramientas'>
+    <ul>
+        {
+            herramientas.map(({ nombre, nivel, keywords }) => {
+                const iconName = nombre === 'Next.js' ? 'Next' : nombre
+                const Icon = SOCIAL_ICONS[iconName]
+
+                return (
+                    <li>
+                        {Icon && <Icon />} <span>{nombre}</span>
+                    </li>
+                )
+            })
+        }
+    </ul>
+</Section>
+
+<style>
+    ul {
+        display: inline-flex;
+        gap: 8px;
+        flex-wrap: wrap;
+    }
+
+    li {
+        align-items: center;
+        background: #eee;
+        border-radius: 6px;
+        color: black;
+        display: flex;
+        font-size: 0.8rem;
+        font-weight: 500;
+        gap: 4px;
+        padding: 0.2rem 0.6rem;
+    }
+</style>

@@ -112,27 +112,30 @@
         {
             "nombre": "Html",
             "nivel": "Master",
-            "keywords": ["Desarrollo Web", "Frontend"]
+            "keywords": [
+                "Desarrollo Web",
+                "Frontend",
+                "HTML5",
+                "HTML Semántico",
+                "SEO"
+            ]
         },
         {
             "nombre": "Css",
             "nivel": "Master",
-            "keywords": ["Desarrollo Web", "Frontend", "Diseño Responsive"]
+            "keywords": [
+                "Desarrollo Web",
+                "Frontend",
+                "CSS3",
+                "Diseño Responsive",
+                "Flexbox",
+                "Grid"
+            ]
         },
         {
             "nombre": "JavaScript",
             "nivel": "Master",
             "keywords": ["Desarrollo Web", "Frontend", "Backend", "Fullstack"]
-        },
-        {
-            "nombre": "Tailwind",
-            "nivel": "Avanzado",
-            "keywords": [
-                "Desarrollo Web",
-                "Frontend",
-                "CSS Framework",
-                "Diseño Responsive"
-            ]
         },
         {
             "nombre": "TypeScript",
@@ -145,41 +148,7 @@
             ]
         },
         {
-            "nombre": "Node",
-            "nivel": "Avanzado",
-            "keywords": ["Desarrollo Web", "Backend", "JavaScript", "Servidor"]
-        },
-        {
-            "nombre": "MySQL",
-            "nivel": "Avanzado",
-            "keywords": [
-                "Bases de Datos",
-                "SQL",
-                "Almacenamiento de Datos",
-                "Backend"
-            ]
-        },
-        {
-            "nombre": "Git",
-            "nivel": "Avanzado",
-            "keywords": [
-                "Control de Versiones",
-                "Colaboración",
-                "Código Fuente"
-            ]
-        },
-        {
-            "nombre": "GitHub",
-            "nivel": "Avanzado",
-            "keywords": [
-                "Control de Versiones",
-                "Colaboración",
-                "Código Fuente",
-                "Git"
-            ]
-        },
-        {
-            "nombre": "Next.js",
+            "nombre": "Astro",
             "nivel": "Avanzado",
             "keywords": [
                 "Desarrollo Web",
@@ -198,6 +167,188 @@
                 "JavaScript Library",
                 "UI"
             ]
+        },
+        {
+            "nombre": "React Router",
+            "nivel": "Avanzado",
+            "keywords": [
+                "Desarrollo Web",
+                "Frontend",
+                "React Library",
+                "Routing"
+            ]
+        },
+        {
+            "nombre": "Redux",
+            "nivel": "Avanzado",
+            "keywords": [
+                "Desarrollo Web",
+                "Frontend",
+                "React Library",
+                "State Management"
+            ]
+        },
+        {
+            "nombre": "Next.js",
+            "nivel": "Avanzado",
+            "keywords": [
+                "Desarrollo Web",
+                "Frontend",
+                "React Framework",
+                "SSR",
+                "Static Generation"
+            ]
+        },
+        {
+            "nombre": "Tailwind",
+            "nivel": "Avanzado",
+            "keywords": [
+                "Desarrollo Web",
+                "Frontend",
+                "CSS Framework",
+                "Diseño Responsive"
+            ]
+        },
+        {
+            "nombre": "Sass",
+            "nivel": "Avanzado",
+            "keywords": [
+                "Desarrollo Web",
+                "Frontend",
+                "CSS Preprocessor",
+                "Diseño Responsive"
+            ]
+        },
+        {
+            "nombre": "Bootstrap",
+            "nivel": "Avanzado",
+            "keywords": [
+                "Desarrollo Web",
+                "Frontend",
+                "CSS Framework",
+                "Diseño Responsive"
+            ]
+        },
+        {
+            "nombre": "Node",
+            "nivel": "Avanzado",
+            "keywords": ["Desarrollo Web", "Backend", "JavaScript", "Servidor"]
+        },
+        {
+            "nombre": "Express.js",
+            "nivel": "Avanzado",
+            "keywords": ["Desarrollo Web", "Backend", "Node.js", "Servidor"]
+        },
+        {
+            "nombre": "MongoDB",
+            "nivel": "Avanzado",
+            "keywords": ["Desarrollo Web", "Backend", "Base de Datos", "NoSQL"]
+        }
+    ],
+    "herramientas": [
+        {
+            "nombre": "VS Code",
+            "nivel": "Master",
+            "keywords": [
+                "Editor de Código",
+                "Desarrollo Web",
+                "Frontend",
+                "Backend"
+            ]
+        },
+        {
+            "nombre": "Git",
+            "nivel": "Master",
+            "keywords": [
+                "Control de Versiones",
+                "Desarrollo Web",
+                "Frontend",
+                "Backend"
+            ]
+        },
+
+        {
+            "nombre": "GitHub",
+            "nivel": "Master",
+            "keywords": [
+                "Control de Versiones",
+                "Desarrollo Web",
+                "Frontend",
+                "Backend"
+            ]
+        },
+        {
+            "nombre": "Postman",
+            "nivel": "Master",
+            "keywords": ["API", "Desarrollo Web", "Frontend", "Backend"]
+        },
+        {
+            "nombre": "MySQL",
+            "nivel": "Avanzado",
+            "keywords": ["Base de Datos", "Desarrollo Web", "Backend", "SQL"]
+        },
+        {
+            "nombre": "PostgreSQL",
+            "nivel": "Avanzado",
+            "keywords": ["Base de Datos", "Desarrollo Web", "Backend", "SQL"]
+        },
+        {
+            "nombre": "SQLite",
+            "nivel": "Avanzado",
+            "keywords": ["Base de Datos", "Desarrollo Web", "Backend", "SQL"]
+        },
+        {
+            "nombre": "Firebase",
+            "nivel": "Avanzado",
+            "keywords": ["Base de Datos", "Desarrollo Web", "Backend", "NoSQL"]
+        },
+        {
+            "nombre": "GraphQL",
+            "nivel": "Avanzado",
+            "keywords": ["API", "Desarrollo Web", "Backend", "Query Language"]
+        },
+
+        {
+            "nombre": "SEO",
+            "nivel": "Avanzado",
+            "keywords": [
+                "Desarrollo Web",
+                "Frontend",
+                "Backend",
+                "Posicionamiento"
+            ]
+        },
+        {
+            "nombre": "Google Analytics",
+            "nivel": "Avanzado",
+            "keywords": ["Desarrollo Web", "Frontend", "Backend", "Analítica"]
+        },
+
+        {
+            "nombre": "Google Ads",
+            "nivel": "Avanzado",
+            "keywords": ["Desarrollo Web", "Frontend", "Backend", "Publicidad"]
+        },
+
+        {
+            "nombre": "Figma",
+            "nivel": "Avanzado",
+            "keywords": ["Diseño Web", "Frontend", "UI", "UX"]
+        },
+        {
+            "nombre": "Adobe Photoshop",
+            "nivel": "Avanzado",
+            "keywords": ["Diseño Web", "Frontend", "Edición de Imágenes"]
+        },
+        {
+            "nombre": "Adobe Illustrator",
+            "nivel": "Avanzado",
+            "keywords": ["Diseño Web", "Frontend", "Diseño Gráfico"]
+        },
+        {
+            "nombre": "Slack",
+            "nivel": "Avanzado",
+            "keywords": ["Comunicación", "Trabajo en Equipo", "Colaboración"]
         }
     ],
     "languages": [
@@ -233,65 +384,22 @@
                 "Astro.builds",
                 "TypeScript"
             ],
-            "github": "#",
+            "github": "https://github.com/ManuelDenisDev/20240206-elenacibaja-portafolio",
 
             "url": "https://elenacibaja-portafolio.netlify.app/"
         },
         {
-            "nombre": "Manuel Denis - Sitio Web",
+            "nombre": "Alejandro Escobar - Coaching",
             "isActive": true,
-            "descripcion": "Desarrollo de sitio web para músico. Trabajo realizado con Next.js, TypeScript y Tailwind CSS.",
+            "descripcion": "Desarrollo de sitio web para coach. Trabajo realizado con Astro.builds, TypeScript y Tailwind CSS.",
             "tecnologias": [
                 "HTML5",
                 "Tailwind CSS",
                 "Astro.builds",
                 "TypeScript"
             ],
-            "github": "#",
-
-            "url": "https://manueldenis.netlify.app/"
-        },
-        {
-            "nombre": "Manuel Denis - Blog",
-            "isActive": true,
-            "descripcion": "Desarrollo de blog personal. Trabajo realizado con Next.js, TypeScript y Tailwind CSS.",
-            "tecnologias": [
-                "HTML5",
-                "Tailwind CSS",
-                "Astro.builds",
-                "TypeScript"
-            ],
-            "github": "#",
-
-            "url": "https://manueldenis.netlify.app/blog"
-        },
-        {
-            "nombre": "Manuel Denis - Portafolio",
-            "isActive": true,
-            "descripcion": "Desarrollo de portafolio personal. Trabajo realizado con Next.js, TypeScript y Tailwind CSS.",
-            "tecnologias": [
-                "HTML5",
-                "Tailwind CSS",
-                "Astro.builds",
-                "TypeScript"
-            ],
-            "github": "#",
-
-            "url": "https://manueldenis.netlify.app/portfolio"
-        },
-        {
-            "nombre": "Manuel Denis - Curriculum Vitae",
-            "isActive": true,
-            "descripcion": "Desarrollo de curriculum vitae personal. Trabajo realizado con Next.js, TypeScript y Tailwind CSS.",
-            "tecnologias": [
-                "HTML5",
-                "Tailwind CSS",
-                "Astro.builds",
-                "TypeScript"
-            ],
-            "github": "#",
-
-            "url": "https://manueldenis.netlify.app/cv"
+            "github": "https://github.com/ManuelDenisDev/20240827-alejandroescobar-coaching",
+            "url": "https://alejandroescobar-coaching.netlify.app/"
         }
     ]
 }
