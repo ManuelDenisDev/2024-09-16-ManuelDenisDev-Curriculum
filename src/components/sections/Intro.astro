@@ -19,8 +19,10 @@ const SOCIAL_ICONS: Record<string, any> = {
 
 const linkedInfo = redesSociales.find(({ nombre }) => nombre === 'LinkedIn')
 const linkedUrl = linkedInfo?.url
+const githubInfo = redesSociales.find(({ nombre }) => nombre === 'GitHub')
+const githubUrl = githubInfo?.url
 
-const imprimirInfo = [email, telefono, linkedUrl].filter(Boolean).join(' • ')
+const imprimirInfo = [email, telefono, url, linkedUrl, githubUrl].filter(Boolean).join(' • ')
 ---
 
 <Section>

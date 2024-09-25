@@ -375,6 +375,25 @@
     ],
     "proyectos": [
         {
+            "nombre": "Spotify Clone",
+            "isActive": true,
+            "descripcion": "Desarrollo de un clon de la web de Spotify. Trabajo realizado con el framework de Astro.builds, junto con TypeScript y Tailwind CSS. El proyecto es una demostracion de las capacidades de Astro.builds para integrar tecnologías modernas como React y Svelte, un estado global con Zustand, transicion entre paginas por medio de las ViewTransitions y algunos componerntes de shadcn/ui.",
+            "tecnologias": [
+                "HTML5",
+                "CSS3",
+                "Astro.builds",
+                "TypeScript",
+                "Tailwind CSS",
+                "React",
+                "Svelte",
+                "Zustand",
+                "ViewTransitions",
+                "shadcn/ui"
+            ],
+            "github": "https://github.com/ManuelDenisDev/2024-09-23-spotify-clone",
+            "url": "https://manueldenis-spotify.netlify.app/"
+        },
+        {
             "nombre": "Elena Cibaja - Interiorismo",
             "isActive": true,
             "descripcion": "Desarrollo de sitio web para interiorista. Trabajo realizado con Astro.builds, TypeScript y Tailwind CSS.",
